@@ -1,0 +1,17 @@
+1-Udacity Classrooom
+
+2-stackover flow: to write in new lines in juputer noyebook. https://stackoverflow.com/questions/41906199/how-to-make-a-new-line-in-a-jupyter-markdown-cell
+
+3-fwd community: to split genres with "|" delimeter and make dataframe .https://nfpdiscussions.udacity.com/t/tmdb-movie-dataset-problem-with-cast-and-genres-columns/144587/4
+
+ and another source from fwd community : https://nfpdiscussions.udacity.com/t/split-with-column-genres-and-take-the-first-genre-error/162090/9
+
+4- fwd community : to merge genres_df with the cleaned_df . https://nfpdiscussions.udacity.com/t/how-can-i-analyze-the-genres-column/168506/3
+
+5-Stackoverflow: to rorate x-tick in bar charts. https://stackoverflow.com/questions/3464359/is-it-possible-to-wrap-the-text-of-xticks-in-matplotlib-in-python
+
+6- webinar of the project and it's slides
+
+7- geeksforgeeks: to add percentage to pie chart. https://www.geeksforgeeks.org/how-to-create-pie-chart-from-pandas-dataframe/
+
+8- fwd community: to make a function for repititive codes. https://nfpdiscussions.udacity.com/t/project-investigate-a-dataset-review-function-of-block-code/164956/6
